@@ -9,6 +9,6 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
-      timezone: "Asia/Seoul"
+      interval: "daily"
+      timezone: "asia/kolkata"
       time: "10:00"
