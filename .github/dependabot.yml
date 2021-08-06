@@ -4,11 +4,11 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      timezone: "asia/kolkata"
-      time: "10:00"
+      timezone: "Asia/Kolkata"
+      time: "10:30"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
-      timezone: "asia/kolkata"
-      time: "10:00"
+      timezone: "Asia/Kolkata"
+      time: "10:30"
